@@ -53,6 +53,7 @@ Creating web applications and AI agents that solve complex problems through auto
 [![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=FFFFFF)](https://sentry.io/)
 [![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=for-the-badge&logo=posthog&logoColor=FFFFFF)](https://posthog.com/)
 [![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=FFFFFF)](https://analytics.google.com/)
+[![Inngest](https://img.shields.io/badge/Inngest-000000?style=for-the-badge&logo=inngest&logoColor=FFFFFF)](https://www.inngest.com/)
 
 ### Connect with me
 
