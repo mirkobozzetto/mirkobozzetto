@@ -54,7 +54,7 @@ Creating web applications and AI agents that solve complex problems through auto
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
-[![VPS](https://img.shields.io/badge/VPS-1F1F1F?style=for-the-badge)](#)
+[![VPS](https://img.shields.io/badge/VPS-2E86AB?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjIwIiBoZWlnaHQ9IjgiIHJ4PSIyIiBmaWxsPSJ3aGl0ZSIvPjxyZWN0IHg9IjIiIHk9IjEzIiB3aWR0aD0iMjAiIGhlaWdodD0iOCIgcng9IjIiIGZpbGw9IndoaXRlIi8+PGNpcmNsZSBjeD0iMTgiIGN5PSI3IiByPSIxLjIiIGZpbGw9IiMyRTg2QUIiLz48Y2lyY2xlIGN4PSIxOCIgY3k9IjE3IiByPSIxLjIiIGZpbGw9IiMyRTg2QUIiLz48bGluZSB4MT0iNSIgeTE9IjciIHgyPSIxMiIgeTI9IjciIHN0cm9rZT0iIzJFODZBQiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48bGluZSB4MT0iNSIgeTE9IjE3IiB4Mj0iMTIiIHkyPSIxNyIgc3Ryb2tlPSIjMkU4NkFCIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIvPjwvc3ZnPgo=)](#)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ### Connect with me
