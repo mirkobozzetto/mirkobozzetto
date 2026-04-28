@@ -1,11 +1,8 @@
 # Mirko Bozzetto
 
-Ultra Engineer & Product Builder specializing in distributed systems, GenAI, and full-stack web platforms.
-I design and ship products end-to-end, from architecture decisions to production delivery.
+Ultra & Product Builder with a focus on distributed systems, GenAI, and full-stack web platforms.
 
-I build AI-native applications and autonomous agents that automate complex workflows, integrate LLMs into real-world systems, and leverage RAG pipelines, real-time APIs, and event-driven architectures to solve hard problems at scale.
-
-Focused on clean systems design, performance, and shipping things that actually work.
+I build AI-native applications and autonomous agents, integrating LLMs, RAG pipelines, and real-time APIs into production-ready products.
 
 ### Frontend
 
