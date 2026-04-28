@@ -16,7 +16,7 @@ Creating web applications and AI agents that solve complex problems through auto
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)](https://ui.shadcn.com/)
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
-[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)](https://zustand-demo.pmnd.rs/)
+[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iNi41IiBjeT0iNiIgcj0iMy41IiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjE3LjUiIGN5PSI2IiByPSIzLjUiIGZpbGw9IndoaXRlIi8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iMTQiIHJ4PSI5IiByeT0iOC41IiBmaWxsPSJ3aGl0ZSIvPjxjaXJjbGUgY3g9IjkiIGN5PSIxMiIgcj0iMS41IiBmaWxsPSIjNDMzRTM4Ii8+PGNpcmNsZSBjeD0iMTUiIGN5PSIxMiIgcj0iMS41IiBmaWxsPSIjNDMzRTM4Ii8+PGVsbGlwc2UgY3g9IjEyIiBjeT0iMTUuNSIgcng9IjIuNSIgcnk9IjIiIGZpbGw9IiM0MzNFMzgiLz48L3N2Zz4K)](https://zustand-demo.pmnd.rs/)
 
 ### Backend & Database
 
