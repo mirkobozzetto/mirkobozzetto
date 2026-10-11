@@ -67,7 +67,6 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Dify](badges/dify.svg)](https://dify.ai/)
 
 [![Mistral AI](badges/mistral-ai.svg)](https://mistral.ai/)
-[![OpenRouter](badges/openrouter.svg)](https://openrouter.ai/)
 [![Hugging Face](badges/hugging-face.svg)](https://huggingface.co/)
 [![ElevenLabs](badges/elevenlabs.svg)](https://elevenlabs.io/)
 
