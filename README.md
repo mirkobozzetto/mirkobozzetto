@@ -28,7 +28,6 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Node.js](badges/node-js.svg)](https://nodejs.org/)
 [![NestJS](badges/nestjs.svg)](https://nestjs.com/)
 [![Express](badges/express.svg)](https://expressjs.com/)
-[![GraphQL](badges/graphql.svg)](https://graphql.org/)
 
 [![Python](badges/python.svg)](https://www.python.org/)
 [![FastAPI](badges/fastapi.svg)](https://fastapi.tiangolo.com/)
