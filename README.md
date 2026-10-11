@@ -8,8 +8,6 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 
 [![React](badges/react.svg)](https://reactjs.org/)
 [![Expo](badges/expo.svg)](https://expo.dev/)
-[![iOS](badges/ios.svg)](https://developer.apple.com/ios/)
-[![macOS](badges/macos.svg)](https://developer.apple.com/macos/)
 [![Tauri](badges/tauri.svg)](https://tauri.app/)
 [![Ratatui](badges/ratatui.svg)](https://ratatui.rs/)
 [![Tailwind CSS](badges/tailwind-css.svg)](https://tailwindcss.com/)
@@ -82,8 +80,6 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Vitest](badges/vitest.svg)](https://vitest.dev/)
 [![Biome](badges/biome.svg)](https://biomejs.dev/)
 [![Playwright](badges/playwright.svg)](https://playwright.dev/)
-[![Neovim](badges/neovim.svg)](https://neovim.io/)
-[![Ghostty](badges/ghostty.svg)](https://ghostty.org/)
 
 [![Inngest](badges/inngest.svg)](https://www.inngest.com/)
 [![n8n](badges/n8n.svg)](https://n8n.io/)
