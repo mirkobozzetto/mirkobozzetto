@@ -8,6 +8,8 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 
 [![React](badges/react.svg)](https://reactjs.org/)
 [![Expo](badges/expo.svg)](https://expo.dev/)
+[![iOS](badges/ios.svg)](https://developer.apple.com/ios/)
+[![macOS](badges/macos.svg)](https://developer.apple.com/macos/)
 [![Tauri](badges/tauri.svg)](https://tauri.app/)
 [![Ratatui](badges/ratatui.svg)](https://ratatui.rs/)
 [![Tailwind CSS](badges/tailwind-css.svg)](https://tailwindcss.com/)
@@ -19,6 +21,7 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Zod](badges/zod.svg)](https://zod.dev/)
 [![shadcn/ui](badges/shadcn-ui.svg)](https://ui.shadcn.com/)
 [![Storybook](badges/storybook.svg)](https://storybook.js.org/)
+[![WXT](badges/wxt.svg)](https://wxt.dev/)
 
 ### Backend & Database
 
@@ -26,6 +29,8 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Payload CMS](badges/payload-cms.svg)](https://payloadcms.com/)
 [![Node.js](badges/node-js.svg)](https://nodejs.org/)
 [![NestJS](badges/nestjs.svg)](https://nestjs.com/)
+[![Express](badges/express.svg)](https://expressjs.com/)
+[![GraphQL](badges/graphql.svg)](https://graphql.org/)
 
 [![Python](badges/python.svg)](https://www.python.org/)
 [![FastAPI](badges/fastapi.svg)](https://fastapi.tiangolo.com/)
@@ -73,7 +78,12 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![PostHog](badges/posthog.svg)](https://posthog.com/)
 [![Sentry](badges/sentry.svg)](https://sentry.io/)
 [![Google Analytics](badges/google-analytics.svg)](https://analytics.google.com/)
+
+[![Vitest](badges/vitest.svg)](https://vitest.dev/)
+[![Biome](badges/biome.svg)](https://biomejs.dev/)
 [![Playwright](badges/playwright.svg)](https://playwright.dev/)
+[![Neovim](badges/neovim.svg)](https://neovim.io/)
+[![Ghostty](badges/ghostty.svg)](https://ghostty.org/)
 
 [![Inngest](badges/inngest.svg)](https://www.inngest.com/)
 [![n8n](badges/n8n.svg)](https://n8n.io/)
