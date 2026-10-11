@@ -34,11 +34,11 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Celery](badges/celery.svg)](https://docs.celeryq.dev/)
 [![gRPC](badges/grpc.svg)](https://grpc.io/)
 
-[![Go](badges/go.svg)](https://golang.org/)
 [![Rust](badges/rust.svg)](https://www.rust-lang.org/)
 [![Tokio](badges/tokio.svg)](https://tokio.rs/)
 [![Axum](badges/axum.svg)](https://github.com/tokio-rs/axum)
 [![Dioxus](badges/dioxus.svg)](https://dioxuslabs.com/)
+[![Go](badges/go.svg)](https://golang.org/)
 
 [![PostgreSQL](badges/postgresql.svg)](https://www.postgresql.org/)
 [![Supabase](badges/supabase.svg)](https://supabase.com/)
@@ -55,12 +55,11 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 
 ### Tools
 
-[![Hermes](badges/hermes.svg)](https://github.com/NousResearch/hermes-agent)
-[![Pi](badges/pi.svg)](https://pi.dev/)
-[![OpenAI](badges/openai.svg)](https://openai.com/)
-[![Claude](badges/claude.svg)](https://claude.ai/)
 [![Claude Code](badges/claude-code.svg)](https://claude.com/claude-code)
+[![OpenAI](badges/openai.svg)](https://openai.com/)
 [![MCP](badges/mcp.svg)](https://modelcontextprotocol.io/)
+[![Pi](badges/pi.svg)](https://pi.dev/)
+[![Hermes](badges/hermes.svg)](https://github.com/NousResearch/hermes-agent)
 
 [![LangChain](badges/langchain.svg)](https://www.langchain.com/)
 [![LangGraph](badges/langgraph.svg)](https://www.langchain.com/langgraph)
