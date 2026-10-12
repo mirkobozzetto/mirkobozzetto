@@ -26,7 +26,10 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Next.js](badges/next-js.svg)](https://nextjs.org/)
 [![Payload CMS](badges/payload-cms.svg)](https://payloadcms.com/)
 [![Node.js](badges/node-js.svg)](https://nodejs.org/)
+[![Bun](badges/bun.svg)](https://bun.sh/)
 [![NestJS](badges/nestjs.svg)](https://nestjs.com/)
+[![Fastify](badges/fastify.svg)](https://fastify.dev/)
+[![Hono](badges/hono.svg)](https://hono.dev/)
 [![Express](badges/express.svg)](https://expressjs.com/)
 
 [![Python](badges/python.svg)](https://www.python.org/)
@@ -43,6 +46,7 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Go](badges/go.svg)](https://golang.org/)
 
 [![PostgreSQL](badges/postgresql.svg)](https://www.postgresql.org/)
+[![SQLite](badges/sqlite.svg)](https://www.sqlite.org/)
 [![Supabase](badges/supabase.svg)](https://supabase.com/)
 [![Prisma](badges/prisma.svg)](https://www.prisma.io/)
 [![Drizzle](badges/drizzle.svg)](https://orm.drizzle.team/)
@@ -54,19 +58,20 @@ I build applications and autonomous agents, integrating LLMs, RAG pipelines, and
 [![Elasticsearch](badges/elasticsearch.svg)](https://www.elastic.co/elasticsearch)
 [![Qdrant](badges/qdrant.svg)](https://qdrant.tech/)
 [![LanceDB](badges/lancedb.svg)](https://lancedb.com/)
+[![Chroma](badges/chroma.svg)](https://www.trychroma.com/)
 
 ### Tools
 
+[![Hermes](badges/hermes.svg)](https://github.com/NousResearch/hermes-agent)
 [![Claude Code](badges/claude-code.svg)](https://claude.com/claude-code)
-[![OpenAI](badges/openai.svg)](https://openai.com/)
+[![Codex](badges/codex.svg)](https://openai.com/codex/)
 [![MCP](badges/mcp.svg)](https://modelcontextprotocol.io/)
 [![Pi](badges/pi.svg)](https://pi.dev/)
-[![Hermes](badges/hermes.svg)](https://github.com/NousResearch/hermes-agent)
 
-[![LangChain](badges/langchain.svg)](https://www.langchain.com/)
-[![LangGraph](badges/langgraph.svg)](https://www.langchain.com/langgraph)
 [![Rig](badges/rig.svg)](https://rig.rs/)
+[![LangChain](badges/langchain.svg)](https://www.langchain.com/)
 [![Dify](badges/dify.svg)](https://dify.ai/)
+[![LangGraph](badges/langgraph.svg)](https://www.langchain.com/langgraph)
 
 [![Mistral AI](badges/mistral-ai.svg)](https://mistral.ai/)
 [![Hugging Face](badges/hugging-face.svg)](https://huggingface.co/)
